@@ -1,4 +1,4 @@
-# Script/Talking Points
+# Building capacity to provide in-demand data analysis skills
 
 ## Slide 1: What is LC and what workshops does it provide?
 
@@ -73,10 +73,13 @@
 - Advantage: more control over planning
   - Able to set our own timeline and adjust curriculum to meet the expertise of instructors and needs of community.
   - Advantage: build rapport between instructors. Smoother co-teaching experience. Instructors have worked together before and can integrate the flow of the workshop better with more time to plan together beforehand
-- Advantage: don't have to pay administrative fee for each workshop.
+- Advantage: don't have to pay administrative fee for each workshop ($2500+).
 - Advantage: build relationships with our community as we become go-to people for teaching these early computation skills
 - Challenge: more time intensive, because we are also responsible for the administrative side of things.
+- Another challenge is recruiting helpers. Our feedback said the helpers were a integral part of the workshop.
 
 ### Next up!
 
-We will teaching/organizing the next NNLM Region 1 Library Carpentry workshop next week, and hope to organize a data carpentry in the spring.
+We will organizing and teaching the next NNLM Region 1 Library Carpentry workshop next week, and hope to organize a data carpentry in the spring.
+
+JP has added to the chat the workshop web page...
